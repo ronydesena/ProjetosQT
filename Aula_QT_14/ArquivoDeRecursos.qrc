@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>Icones/c++.png</file>
+        <file>Icones/js.png</file>
+        <file>Icones/php.png</file>
+        <file>Icones/qt.png</file>
+        <file>Icones/unity.png</file>
+    </qresource>
+</RCC>
